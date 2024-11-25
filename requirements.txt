@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+jieba
+requests
+snownlp
+wordcloud
+matplotlib
